@@ -1,8 +1,8 @@
 # LinuxShellinC
-#Run using make then run the executable a.out using ./a.out 
-Files: 
-	redirect.c has the function which is  used to redirect.
-	echo.c has  the  execution of echo command.
+Run using make then run the executable a.out using ./a.out <br /> 
+Files: <br />
+	redirect.c has the function which is  used to redirect. <br />
+	echo.c has  the  execution of echo command. br </>
 	jobs.c has the implementation for jobs command which prints the bg processes.
 	pinfs.c has implementation of pinfo
 	kjob.c has implementation of kjob
